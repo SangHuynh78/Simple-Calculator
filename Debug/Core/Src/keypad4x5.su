@@ -1,0 +1,5 @@
+../Core/Src/keypad4x5.c:21:15:check_but	8	static
+../Core/Src/keypad4x5.c:32:6:scan_row	16	static
+../Core/Src/keypad4x5.c:45:15:check_col	8	static
+../Core/Src/keypad4x5.c:53:15:get_key	16	static
+../Core/Src/keypad4x5.c:71:6:key2char	16	static
